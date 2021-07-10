@@ -2,7 +2,7 @@
 
 When beginning a career in data science, one often wonders what programming tools and languages are being used in the industry, and what skills one should learn first. By exploring the 2017 Kaggle Data Science Survey results, we can learn about the tools used by 10,000+ people in the professional data science community.
 
-For this project I used the R programming language in order to manipulate data frames. I used the tidyverse packages dplyr, tidyr, and ggplot2.
+#### For this project I used the R programming language in order to manipulate data frames. I used the tidyverse packages dplyr, tidyr, and ggplot2.
 
 ## Feel free to check out the Jupyter Notebook "notebook.ipynb".
 

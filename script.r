@@ -7,7 +7,6 @@ responses <- read_csv('datasets/kagglesurvey.csv')
 # Print the first 10 rows
 head(responses, n = 10)
 
-
 # Printing the first respondent's tools and languages
 responses[1, 2]
 
